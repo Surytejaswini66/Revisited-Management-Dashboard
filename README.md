@@ -6,9 +6,7 @@ A full-stack admin dashboard for managing product categories in Revisit, an e-co
 
 ## 🚀 Live Demo
 
-- **Frontend:** https://your-frontend.vercel.app
-- **Backend API:** https://your-backend.onrender.com  
-  (Replace with actual links after deployment)
+- **Frontend:** https://revisited-management-dashboard.netlify.app/login
 
 ---
 
